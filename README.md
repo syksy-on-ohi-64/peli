@@ -3,6 +3,7 @@
 ## esittely
 
 Peliä ei vielä ole :(
+Mutta siis tänne GitHubiin kerätään kaikki pelin tiedostot, kuten koodin pätkät ja grafiikat.
 
 ## tekniikka
 
